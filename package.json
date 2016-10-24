@@ -1,7 +1,7 @@
 {
   "name": "EasyLogs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Logging tool to easily manage errors, logs and apps states",
   "main": "lib/easylogs.js",
   "scripts": {
     "build": "webpack --mode=build",
