@@ -1,8 +1,8 @@
 {
-  "name": "EasyLog",
+  "name": "EasyLogs",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/easylog.js",
+  "main": "lib/easylogs.js",
   "scripts": {
     "build": "webpack --mode=build",
     "dev": "webpack --progress --colors --watch --mode=dev",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DailyDeal/EasyLog.git"
+    "url": "https://github.com/DailyDeal/EasyLogs.git"
   },
   "keywords": [
     "javascript",
@@ -41,7 +41,7 @@
   "author": "DailyDeal GmbH <dev@dailydeal.de> (https://dailydeal.de)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DailyDeal/EasyLog/issues"
+    "url": "https://github.com/DailyDeal/EasyLogs/issues"
   },
-  "homepage": "https://github.com/DailyDeal/EasyLog"
+  "homepage": "https://github.com/DailyDeal/EasyLogs"
 }

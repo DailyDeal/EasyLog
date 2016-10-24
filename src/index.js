@@ -1,4 +1,4 @@
-export default class EasyLog {
+export default class EasyLogs {
   constructor(level) {
     // Logging levels:
     this.LOG = {
