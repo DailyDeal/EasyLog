@@ -8,6 +8,7 @@ export default class EasyLogs {
       ERROR: 1,
       DISABLED: 0
     };
+
     this.setLevel(level);
   }
 
@@ -27,7 +28,7 @@ export default class EasyLogs {
   }
 
   shouldLog(logLevel) {
-    return this.level > 0 && this.level <= logLevel;
+    return this.level > 0 && this.level >= logLevel;
   }
 
   beautify(value) {
