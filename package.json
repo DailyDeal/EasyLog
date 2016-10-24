@@ -1,5 +1,5 @@
 {
-  "name": "EasyLogs",
+  "name": "easylogs",
   "version": "1.0.0",
   "description": "Logging tool to easily manage errors, logs and apps states",
   "main": "lib/easylogs.js",
